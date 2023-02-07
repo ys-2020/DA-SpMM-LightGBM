@@ -24,3 +24,5 @@ The corresponding relationships are as follows (Please refer to our [paper](http
 In the folder `data`, we provide some sample data for the project, by runing main.py directly, you will get to know more about the project.
 
 Please find our DAC'22 paper [here](https://arxiv.org/abs/2202.08556).
+
+Please install [scikit-learn](https://scikit-learn.org/stable/) and [LightGBM](https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html) before running our repo. 
